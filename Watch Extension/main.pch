@@ -1,0 +1,30 @@
+//
+//  main.pch
+//  NoMo
+//
+//  Created by Costas Harizakis on 21/11/2016.
+//  Copyright © 2016 MiiCard. All rights reserved.
+//
+
+
+#import <Foundation/Foundation.h>
+#import <WatchKit/WatchKit.h>
+#import <WatchConnectivity/WatchConnectivity.h>
+
+#import "NMTypes.h"
+#import "NMUtility.h"
+#import "NMAmount.h"
+
+#import "NSArray+Additions.h"
+#import "NSData+Additions.h"
+#import "NSDate+Additions.h"
+#import "NSDateFormatter+Additions.h"
+#import "NSDictionary+Additions.h"
+#import "NSMutableArray+Additions.h"
+#import "NSMutableDictionary+Additions.h"
+#import "NSObject+Additions.h"
+#import "NSOrderedSet+Additions.h"
+#import "NSRange+Additions.h"
+#import "NSString+Additions.h"
+
+#import "UIColor+Additions.h"

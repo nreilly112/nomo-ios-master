@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Montserrat-Regular.ttf">
+            <string>Montserrat-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NMGraphView">
+            <connections>
+                <outlet property="captionContainer" destination="hY5-mR-oAB" id="7yP-nt-Vvp"/>
+                <outlet property="captionContainerHeight" destination="F0E-Sw-YKy" id="clX-Vj-gyE"/>
+                <outlet property="captionLabel" destination="8fO-kg-HZE" id="DyF-Gs-WZi"/>
+                <outlet property="horizontalAxisView" destination="W0L-u2-KUX" id="mOb-xW-Ll7"/>
+                <outlet property="plotAreaView" destination="paf-8S-y5s" id="xII-W1-4Mf"/>
+                <outlet property="verticalAxisView" destination="Oad-pY-3dP" id="sMd-1U-WPg"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" userLabel="Content View">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="200"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="scene-6" translatesAutoresizingMaskIntoConstraints="NO" id="C6W-eB-w94" userLabel="(guide)">
+                    <rect key="frame" x="0.0" y="-293.5" width="375" height="667"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="667" id="QqZ-v5-XPj"/>
+                        <constraint firstAttribute="width" constant="375" id="VH2-f6-N3P"/>
+                    </constraints>
+                </imageView>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="paf-8S-y5s" userLabel="Plot Area" customClass="NMGraphPlotAreaView">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="155"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Oad-pY-3dP" userLabel="Vertical Axis" customClass="NMGraphVerticalAxisView">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="155"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="W0L-u2-KUX" userLabel="Horizaontal Axis" customClass="NMGraphHorizontalAxisView">
+                    <rect key="frame" x="0.0" y="155" width="375" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="ZCf-E7-GxK"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hY5-mR-oAB" userLabel="Caption">
+                    <rect key="frame" x="0.0" y="175" width="375" height="25"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="September 2016" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8fO-kg-HZE">
+                            <rect key="frame" x="142.5" y="-1" width="90.5" height="25"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="mSr-9D-DNL"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="11"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="F0E-Sw-YKy"/>
+                        <constraint firstItem="8fO-kg-HZE" firstAttribute="centerY" secondItem="hY5-mR-oAB" secondAttribute="centerY" constant="-1" id="IIP-RB-Dz5"/>
+                        <constraint firstItem="8fO-kg-HZE" firstAttribute="centerX" secondItem="hY5-mR-oAB" secondAttribute="centerX" id="mFm-J7-0ox"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="W0L-u2-KUX" firstAttribute="top" secondItem="paf-8S-y5s" secondAttribute="bottom" id="0st-0n-R0l"/>
+                <constraint firstAttribute="trailing" secondItem="paf-8S-y5s" secondAttribute="trailing" id="EOW-Nd-dQl"/>
+                <constraint firstItem="paf-8S-y5s" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Kiv-9Q-oGz"/>
+                <constraint firstItem="hY5-mR-oAB" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="NGY-C8-lRK"/>
+                <constraint firstItem="Oad-pY-3dP" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="TVC-gm-VMx"/>
+                <constraint firstAttribute="trailing" secondItem="hY5-mR-oAB" secondAttribute="trailing" id="UGg-qL-V00"/>
+                <constraint firstItem="C6W-eB-w94" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="alh-h8-6hH"/>
+                <constraint firstItem="paf-8S-y5s" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="cgP-Bo-aKc"/>
+                <constraint firstAttribute="bottom" secondItem="hY5-mR-oAB" secondAttribute="bottom" id="djI-0o-3oY"/>
+                <constraint firstItem="W0L-u2-KUX" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="elf-R2-WO5"/>
+                <constraint firstItem="W0L-u2-KUX" firstAttribute="top" secondItem="Oad-pY-3dP" secondAttribute="bottom" id="gtM-zy-1HT"/>
+                <constraint firstItem="C6W-eB-w94" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" constant="-60" id="hrp-7s-unX"/>
+                <constraint firstAttribute="trailing" secondItem="W0L-u2-KUX" secondAttribute="trailing" id="qZf-ZM-h2J"/>
+                <constraint firstAttribute="trailing" secondItem="Oad-pY-3dP" secondAttribute="trailing" id="uR4-eb-i2g"/>
+                <constraint firstItem="hY5-mR-oAB" firstAttribute="top" secondItem="W0L-u2-KUX" secondAttribute="bottom" id="wAY-a5-gl6"/>
+                <constraint firstItem="Oad-pY-3dP" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="xWV-GT-WL3"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="scene-6" width="377" height="667"/>
+    </resources>
+</document>

@@ -1,0 +1,68 @@
+//
+//  main.pch
+//  NoMo
+//
+//  Created by Costas Harizakis on 9/23/16.
+//  Copyright © 2016 MiiCard. All rights reserved.
+//
+
+#import <objc/runtime.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreText/CoreText.h>
+#import <QuartzCore/QuartzCore.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <UserNotifications/UserNotifications.h>
+
+#import <AFNetworking/AFNetworking.h>
+#import <AFNetworking/UIKit+AFNetworking.h>
+#import <SAMKeychain/SAMKeychain.h>
+#import <StepSlider/StepSlider.h>
+#import <RNCryptor-objc/RNCryptor.h>
+#import <RNCryptor-objc/RNDecryptor.h>
+#import <RNCryptor-objc/RNEncryptor.h>
+
+#import "NMTypes.h"
+#import "NMUtility.h"
+#import "NMAmount.h"
+
+#import "NoMoContext.h"
+#import "NoMoSettings.h"
+
+#import "IQGeometry.h"
+
+#import "AFHTTPSessionManager+Additions.h"
+#import "NSLayoutConstraint+Additions.h"
+#import "UIApplication+Additions.h"
+#import "UIBarButtonItem+Additions.h"
+#import "UIButton+Additions.h"
+#import "UIColor+Additions.h"
+#import "UIImage+Additions.h"
+#import "UIImageView+Additions.h"
+#import "UISearchBar+Additions.h"
+#import "UISlider+Additions.h"
+#import "UIStoryboard+Additions.h"
+#import "UIStoryboardSegue+Additions.h"
+#import "UITableViewCell+Additions.h"
+#import "UIView+Additions.h"
+#import "UIViewController+Additions.h"
+
+#import "NSArray+Additions.h"
+#import "NSData+Additions.h"
+#import "NSDate+Additions.h"
+#import "NSDateFormatter+Additions.h"
+#import "NSDictionary+Additions.h"
+#import "NSDictionary+Cryptography.h"
+#import "NSMutableArray+Additions.h"
+#import "NSMutableDictionary+Additions.h"
+#import "NSObject+Additions.h"
+#import "NSOrderedSet+Additions.h"
+#import "NSRange+Additions.h"
+#import "NSString+Additions.h"
+
+
+#define UIViewAutoresizingFlexibleSize ( UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight )
+#define UIViewAutoresizingFlexibleHorizontalMargins ( UIViewAutoresizingFlexibleLeftMargin | UIViewAutoresizingFlexibleRightMargin )
+#define UIViewAutoresizingFlexibleVerticalMargins ( UIViewAutoresizingFlexibleTopMargin | UIViewAutoresizingFlexibleBottomMargin )
+#define UIViewAutoresizingFlexibleMargins ( UIViewAutoresizingFlexibleHorizontalMargins | UIViewAutoresizingFlexibleVerticalMargins )
+#define UIViewAutoresizingAll ( UIViewAutoresizingFlexibleSize | UIViewAutoresizingFlexibleMargins )

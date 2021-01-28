@@ -1,0 +1,6071 @@
+[{
+	"level": 0,
+	"min": -1.0,
+	"max": 1.0,
+	"text": "Right in the comfort zone."
+}, {
+	"level": 0,
+	"min": -1.0,
+	"max": 1.0,
+	"text": "You're on track."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Nifty."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Thrifty."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "You're a saving star."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "You're my sunshine."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Happy days."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "You are beautiful."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 85.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 300.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "You've given me more meaning."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 85.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 300.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 85.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 300.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Happy days. Just smile."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 85.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 300.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Time to lounge out."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 85.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 300.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Happy good day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Do something awesome today."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Make the world a better place."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Suddenly you made my day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Seize the day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Have a wonderful day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"min": 5.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"min": 5.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"min": 5.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"min": 25.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"min": 20.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"min": 50.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"min": 150.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"min": 100.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"min": 10.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"min": 50.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"min": 20.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"min": 20.0,
+	"text": "Just a perfect day."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"max": -100.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Everything will be OK."
+}, {
+	"level": 0,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "THB",
+	"max": -100.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "It's alright - Keep smiling."
+}, {
+	"level": 0,
+	"text": "Coffee + Chill"
+}, {
+	"level": 0,
+	"text": "Go watch the Sunset."
+}, {
+	"level": 0,
+	"text": "Go jazz dancing."
+}, {
+	"level": 0,
+	"text": "Go to the park."
+}, {
+	"level": 0,
+	"text": "Get ice cream."
+}, {
+	"level": 0,
+	"text": "Go bowling."
+}, {
+	"level": 0,
+	"text": "Find more time to sleep."
+}, {
+	"level": 0,
+	"text": "Discover more music."
+}, {
+	"level": 0,
+	"text": "Drink more tea."
+}, {
+	"level": 0,
+	"text": "Read more books."
+}, {
+	"level": 0,
+	"text": "Go for some long walks."
+}, {
+	"level": 0,
+	"text": "Give more hugs."
+}, {
+	"level": 0,
+	"text": "Dream more."
+}, {
+	"level": 0,
+	"text": "Create something."
+}, {
+	"level": 0,
+	"text": "Go for a road trip."
+}, {
+	"level": 0,
+	"text": "Have more fun."
+}, {
+	"level": 0,
+	"text": "Choose happy."
+}, {
+	"level": 1,
+	"text": "I don't have anything great to say."
+}, {
+	"level": 1,
+	"text": "Time for Netflix and Chill."
+}, {
+	"level": 1,
+	"min": 1.0,
+	"text": "Panic now and run away."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 50.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 50.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 50.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 250.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 200.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 500.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 15000.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 1350.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 100.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 500.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 100.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 100.0,
+	"text": "Loaded."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Looks like soup for dinner."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Awkward."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "How very very exciting."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Chin up princess."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Everything looks expensive now."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Looks like sardines for dinner."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Saving sounds like a great idea."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "It's time to pay in pennies."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "To the thrift store."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "I don't believe it."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Cheeky cheeky."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Rawrr."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "This is how we do it."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -10.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -10.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -10.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -50.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -40.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -100.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -300.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -270.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -100.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -40.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -40.0,
+	"text": "The struggle is real."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Bye."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "That sucks."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Goodluck."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Just like everyone else."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "You make me smile."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Congratulations."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Transcending into darkness."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "I just can't."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "I'm not insulting you. I'm just describing you."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Abracadabra."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Chicken nuggets tonight."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "The worst is yet to come."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Tomorrows gonna be worse."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Where does all the money go?"
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Skint."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "It's dry here..."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "No money in your pocket."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 75.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 400.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Mo money in your pocket."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 15.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 15.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 15.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 75.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 60.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 150.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 450.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 400.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 30.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 150.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 60.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 60.0,
+	"text": "Licensed to chill."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Party time."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Just wine and dine."
+}, {
+	"level": 1,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 1,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Foie gras tonight."
+}, {
+	"level": 2,
+	"min": 1.0,
+	"text": "You're doing better than the last few months."
+}, {
+	"level": 2,
+	"text": "Stay strong."
+}, {
+	"level": 2,
+	"min": 1.0,
+	"text": "The force is strong with you."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Do not be afraid."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "It's time to go up. Make it happen."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Legit."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "You're so money."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Money magnet."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Walking like a badass."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Stay sharp."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Only dead fish go with the flow."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Calm vibes."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Don't go down trying to look rich."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Less is more."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 10.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 10.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 10.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 50.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 40.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 100.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 300.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 270.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 20.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 100.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Just relax and unwind."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Time to make more money."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 30.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 30.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 30.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 150.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 120.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 300.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 900.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 810.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 60.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 300.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 120.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 120.0,
+	"text": "Save first and spend what's left."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 60.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 60.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 60.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 300.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 240.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 600.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 1800.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 1620.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 120.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 600.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 240.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 240.0,
+	"text": "Things just got real."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": -10.0,
+	"max": 10.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": -10.0,
+	"max": 10.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": -10.0,
+	"max": 10.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": -50.0,
+	"max": 50.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": -40.0,
+	"max": 40.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": -100.0,
+	"max": 100.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": -300.0,
+	"max": 300.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": -270.0,
+	"max": 270.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": -20.0,
+	"max": 20.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": -100.0,
+	"max": 100.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": -20.0,
+	"max": 20.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": -20.0,
+	"max": 20.0,
+	"text": "Your close to the historic average."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": -10.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": -10.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": -50.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": -40.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": -100.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": -300.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": -270.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": -20.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": -100.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": -20.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": -20.0,
+	"text": "Still OK."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": -10.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": -10.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": -50.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": -40.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": -100.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": -300.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": -270.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": -20.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": -100.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": -20.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": -20.0,
+	"text": "Starve your spending habits."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 100.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 100.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 100.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 500.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 400.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 1000.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 30000.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 2700.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 200.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 1000.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 200.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 200.0,
+	"text": "Making it rain."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 50.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 50.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 50.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 250.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 200.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 500.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 15000.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 1350.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 100.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 500.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 100.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 100.0,
+	"text": "Keep that up. Seriously."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 50.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 50.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 50.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 250.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"min": 200.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 500.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 15000.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 1350.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 100.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 500.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 100.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 100.0,
+	"text": "Steak tonight."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 20.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 20.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 20.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 100.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 200.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 600.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 540.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 40.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 200.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Drinks are on you."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 20.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 20.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 20.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 100.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 200.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 600.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 540.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 40.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 200.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Positive vibes."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 20.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 20.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 20.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 100.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 200.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 600.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 540.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 40.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 200.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "Feelin' good."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"min": 20.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"min": 20.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"min": 20.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"min": 100.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"min": 200.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"min": 600.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"min": 540.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"min": 40.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"min": 200.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"min": 40.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"min": 40.0,
+	"text": "On fleek."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "No worries, saving money is hard."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "The best is yet to come."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Rough seas make the sailor."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "It's all about the budgeting mindset."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "It's never too late to control your spending."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "It's not your income that can bring you up, it's your spending habits."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "On - with the show."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "No winter lasts forever."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Just breathe."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -15.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -15.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -15.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -75.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -60.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -150.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -450.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -400.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -30.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -150.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -30.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -30.0,
+	"text": "It's only up from here."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -30.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -30.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -30.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -150.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -120.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -300.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -900.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -800.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -60.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -300.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -60.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -60.0,
+	"text": "It's just a bad day. Not a bad life."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -15.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -15.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -15.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -75.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -60.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -150.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -450.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -400.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -30.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -150.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -30.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -30.0,
+	"text": "Tomorrow holds better days."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -15.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -15.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -15.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -75.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -60.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -150.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -450.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -400.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -30.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -150.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -30.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -30.0,
+	"text": "Wake up and smell the coffee."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -10.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -10.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -10.0,
+	"text": "Lost in the woods."
+}, {
+	"level": 2,
+	"text": "Spending less is the best policy."
+}, {
+	"level": 2,
+	"text": "Aim high."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "No problem."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "It is what it is."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "No rain. No flowers."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Nothing is permanent."
+}, {
+	"level": 2,
+	"currency": "GBP",
+	"max": -5.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "CAD",
+	"max": -5.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "USD",
+	"max": -5.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "ILS",
+	"max": -25.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "AED",
+	"max": -20.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "ZAR",
+	"max": -50.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "INR",
+	"max": -150.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "THB",
+	"max": -135.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "SGD",
+	"max": -20.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "HKD",
+	"max": -50.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "AUD",
+	"max": -20.0,
+	"text": "Mephobia."
+}, {
+	"level": 2,
+	"currency": "NZD",
+	"max": -20.0,
+	"text": "Mephobia."
+}]

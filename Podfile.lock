@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - RNCryptor-objc (3.0.6)
+  - SAMKeychain (1.5.3)
+  - SMPageControl (1.2)
+  - StepSlider (1.2.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - RNCryptor-objc (~> 3.0)
+  - SAMKeychain
+  - SMPageControl
+  - StepSlider
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - RNCryptor-objc
+    - SAMKeychain
+    - SMPageControl
+    - StepSlider
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  RNCryptor-objc: d1b228f9c02e2173df063f0617684c134aed890e
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SMPageControl: 922892813001cfaf059e86e6801f46a967e9ee29
+  StepSlider: e1c9b8f3363cf87224e19c000abe9f5146f80dd1
+
+PODFILE CHECKSUM: ca763a46f1c5e741e06cc365bbe4757b57ac6228
+
+COCOAPODS: 1.9.0

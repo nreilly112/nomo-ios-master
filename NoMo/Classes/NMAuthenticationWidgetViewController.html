@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8" />
+    <title>DirectID</title>
+
+	<!-- Bootstrap and Fonts -->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700,800,300" rel="stylesheet" type="text/css" />
+
+	<!-- DirectID Widget CSS Style -->
+	<link rel="stylesheet" href="{{FullCDNPath}}/directid.min.css" />
+	<!-- NoMo CSS Style -->
+	<link rel="stylesheet" href="{{BaseURL}}/directid-widget-overrides.css" />
+
+	<link href="http://direct.id/Media/Default/Images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+</head>
+
+<body>
+    <div id="page-wrapper">
+
+        <header id="header" class="container">
+            <div class="row">
+                <div class="col-xs-12">
+					<!-- Intentionally left empty -->
+                </div>
+            </div>
+        </header>
+
+        <main id="main" class="container">
+            <div class="row">
+                <div id="widget">
+                    <!-- DirectID Widget Start -->
+                    <div id="did" data-token="{{UserSessionToken}}"></div>
+                    <!-- DirectID Widget End -->
+                </div>
+            </div>
+        </main>
+
+        <footer id="footer" class="container">
+            <div class="row">
+                <div class="col-xs-12">
+					<!-- Intentionally left empty -->
+				</div>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- DirectID Widget JS -->
+    <script src="{{FullCDNPath}}/directid.min.js"></script>
+	
+	<div id="did-gateway" style="display: none;"></div>
+	<script type="text/javascript">
+		var didEvents = [
+			// Flow events
+			'didInitComplete',
+			'didStageChangeStart',
+			'didStageChangeComplete',
+			'didInterruptAdded',
+			'didFlowComplete',
+			'didFlowReset',
+
+			// Bank and credit card events
+			'didProviderLoginFormUpdated',
+			'didProviderLoginFormSubmitted',
+			'didProviderLoginFormAccepted',
+			'didProviderLoginProgressUpdate',
+			'didProviderLoginSuccess',
+			'didProviderLoginInvalid',
+			'didProviderLoginReconnectRequested',
+			'didProviderLoginReconnectSuccess',
+			'didProviderLoginReconnectError',
+			'didPopularProvidersError',
+			'didPopularProvidersUpdated',
+			'didMfaRequested',
+			'didMfaFormUpdated',
+			'didMfaCountdownStarted',
+			'didMfaCountdownEnded',
+			'didAccountSelectionRequested',
+			'didAccountSelectionSuccess',
+			'didAccountSelectionFailure',
+
+			// Interaction events
+			'didCloseLoginHelpModal',
+			'didStartButtonClicked',
+			'didProviderNotFound',
+			'didProviderSelected',
+			'didShowPassword',
+			'didHidePassword',
+			'didVerifyButtonClicked',
+			'didAccountSelected',
+			'didMfaSubmitClicked',
+			'didGotoStageClicked',
+
+			// Error events
+			'didFatalError',
+			'didConfigEndpointFailure',
+			'didInvalidEvent',
+
+			// Config events
+			'didConfigUpdated',
+			'didInvalidFlowConfig',
+
+			// Session events
+			'didSessionTokenSet',
+
+			// Signalr events
+			'didSignalrStateChange',
+			'didSignalrAccountSelectionRequired',
+			'didSignalrErrorToInvalid',
+			'didSignalrInvalidLogin',
+			'didSignalrInvalidMfa',
+			'didSignalrFatalError',
+			'didSignalrMfaRequired',
+			'didSignalrProgressUpdate',
+			'didSignalrLoginSuccess',
+
+			// Render events
+			'didStateRenderRequest',
+			'didStateRenderStart',
+			'didStateRenderError',
+			'didStateRenderComplete'
+		];
+		
+		DIDjQuery(document).on(didEvents.join(' '), function handler(event, data) {
+			var url = 'did://' + encodeURI(event.type) + '/;data=' + encodeURI(JSON.stringify(data || { }));
+			DIDjQuery('#did-gateway').empty().append('<iframe src="' + url + '"></frame>');
+		});
+	</script>
+</body>
+
+</html>
